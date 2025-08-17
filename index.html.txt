@@ -1,0 +1,9 @@
+<h1>Welcome to Study Hub</h1>
+<p>This website helps you study topics like Math, Science, and History.</p>
+
+<h2>Why Use This Site?</h2>
+<ul>
+  <li>Easy access to notes</li>
+  <li>Video lessons</li>
+  <li>Flashcards (coming soon!)</li>
+</ul>
